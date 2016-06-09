@@ -19,7 +19,8 @@ Cria dentro do container uma pasta persistente com o caminho `/arquivo/`
 
 ```docker run -v panicio:/arquivos/ -it  continuumio/miniconda /bin/bash```
 
-Entrando no docker `continuumio/miniconda` e inicializando o bash
+Entrando no docker `continuumio/miniconda` e inicializando o bash:
+
 ```docker run -i -t continuumio/miniconda /bin/bash```
 
 
