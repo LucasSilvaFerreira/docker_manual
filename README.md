@@ -5,11 +5,11 @@ My personal docker manual
 
 listando imagens
 
-```docker images````
+```docker images```
 
 listando containers
 
-```docker ps``
+```docker ps```
 
 criando um volume para persitencia 
 ```docker volume create --name dados_x```
